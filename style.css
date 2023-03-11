@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(230, 229, 229);
+  background-color: hsl(212, 45%, 89%);
 }
 .parent-div {
   background-color: white;
@@ -13,4 +13,10 @@ body {
 .parent-div img {
   width: 350px;
   border-radius: 20px;
+}
+
+.childern-div p {
+  font-size: 18px;
+  color: hsl(211, 26%, 78%);
+  font-weight: 400;
 }
