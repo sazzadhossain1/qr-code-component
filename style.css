@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(230, 229, 229);
+}
+.parent-div {
+  background-color: white;
+  width: 400px;
+  margin: auto;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  border-radius: 20px;
+}
+.parent-div img {
+  width: 350px;
+  border-radius: 20px;
+}
